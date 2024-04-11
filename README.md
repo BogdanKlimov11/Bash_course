@@ -1,5 +1,7 @@
 <h1 id="top">Справочник командной оболочке Shell</h1>
 
+<img src="https://github.com/BogdanKlimov11/Shell_course/assets/136115919/7cdf3dc5-bb0b-4fee-932c-db5f6adce90c" alt="Shell logo" title="Shell" width="100%" height="auto">
+
 ---
 
 <!-- Оглавление -->
